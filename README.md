@@ -22,5 +22,5 @@ Solving for issues like:
 
 The following demonstrates the applications appearance:
 
-<img src="assets/images/Screennshot.png" alt="screenshot">
+<img src="./assets/images/Screennshot.png" alt="screenshot">
 
